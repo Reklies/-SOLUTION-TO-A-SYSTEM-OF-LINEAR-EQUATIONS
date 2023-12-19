@@ -15,6 +15,8 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 
+![Screenshot 2023-12-19 152734](https://github.com/Reklies/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147139232/838aed0c-d1cf-40b9-b767-be764904e4c8)
+
 ## Output:
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
